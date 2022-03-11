@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FMaslina
 - 👀 I’m interested in Python, Django
-- 🌱 I’m currently learning SQL, Django
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
