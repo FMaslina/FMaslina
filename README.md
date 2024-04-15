@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FMaslina
 - 👀 I’m interested in Python Backend Development
-- 🌱 I’m currently learning Docker
+- 🌱 I’m currently learning ElasticSearch
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
